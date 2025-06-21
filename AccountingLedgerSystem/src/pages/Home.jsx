@@ -26,6 +26,25 @@ const Home = () => {
         >
           Create Account
         </Link>
+        <Link
+            to="/journalentries/create"
+            className="px-6 py-2 bg-purple-500 hover:bg-purple-600 text-white rounded-lg transition"
+          >
+            Create Journal Entry
+          </Link>
+          <Link
+        to="/journalentries"
+        className="px-6 py-2 bg-indigo-500 hover:bg-indigo-600 text-white rounded-lg transition"
+      >
+        View Journal Entries
+      </Link>
+
+      <Link
+      to="/trialbalance"
+      className="px-6 py-2 bg-purple-500 hover:bg-purple-600 text-white rounded-lg transition"
+    >
+      View Trial Balance
+    </Link>
       </div>
     </div>
   );
