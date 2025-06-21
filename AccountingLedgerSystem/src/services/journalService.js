@@ -1,13 +1,11 @@
-import axios from "axios";
-
-const API_URL = "https://localhost:7081/api/journal";
+import api from "../services/api";
 
 export const saveJournalEntry = async (data) => {
-  const response = await axios.post(`${API_URL}/save-journal-entry`, data);
+    const response = await api.post("/save-journal-entry", data);
   return response.data;
 };
 
 export const getJournalEntries = async () => {
-  const response = await axios.get(`${API_URL}/get-all-journalentries`);
+    const response = await api.get("/get-all-journalentries");
   return response.data;
 };

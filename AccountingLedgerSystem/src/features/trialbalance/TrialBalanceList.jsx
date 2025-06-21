@@ -36,7 +36,7 @@ const TrialBalanceList = () => {
           {data.map((item) => (
             <tr key={item.id}>
               <td className="border px-3 py-2">{item.name}</td>
-              <td className="border px-3 py-2">{item.yype}</td>
+              <td className="border px-3 py-2">{item.type}</td>
               <td className="border px-3 py-2 text-green-700">{item.totalDebit}</td>
               <td className="border px-3 py-2 text-red-700">{item.totalCredit}</td>
               <td className="border px-3 py-2 font-semibold">
