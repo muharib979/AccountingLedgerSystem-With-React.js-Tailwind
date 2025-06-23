@@ -17,23 +17,26 @@ View Trial Balance
 
 📷 Screenshots
 
-### 🏠 Home Page
+### Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/Home.png)
 
 
-### 📥 Create Account
-![Create Account](screenshots/create-account.png)
-![Create List](screenshots/account-list.png)
+### Create Account
+![Create Account](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/create-account.png)
+### Accounts List
+![Accounts List](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/account-list.png)
 
+### Journal Entries
+![Journal Entries](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/journal-entries.png)
 
 ### 📄 Journal Entries
-![Journal Entries](screenshots/journal-entries.png)
-![Journal Entry List](screenshots/journalEntry-list.png)
+![Journal Entry List](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/journalEntry-list.png)
 
-### 📊 Trial Balance
 
-![Trial Balance](screenshots/trial-balance.png)
+### Trial Balance
+![Trial Balance](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/trial-balance.png)
+
 
 
 ⚒️ Tech Stack
@@ -84,8 +87,7 @@ Start the Project:
 npm run dev
 
 Visit: http://localhost:5173/
-![Home Page](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/Home.png)
-![Home Page](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/Home.png)
+
 
 
 
