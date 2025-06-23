@@ -84,6 +84,7 @@ Start the Project:
 npm run dev
 
 Visit: http://localhost:5173/
+[![Home Page](screenshots/Home.png)](screenshots/Home.png)
 
 
 
