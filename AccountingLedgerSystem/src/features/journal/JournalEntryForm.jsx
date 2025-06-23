@@ -85,7 +85,7 @@ const JournalEntryForm = () => {
           />
         </label>
 
-  <h4 className="mt-4 mb-2 font-semibold">Journal Details:</h4>
+  <h4 className="mt-4 mb-2 font-semibold">Lines:</h4>
       {formData.lines.map((line, idx) => (
         <div key={idx} className="mb-4 grid grid-cols-3 gap-4 items-center">
           <div>
@@ -137,7 +137,7 @@ const JournalEntryForm = () => {
           onClick={addLine}
           className="mb-4 px-4 py-1 bg-gray-300 rounded"
         >
-          + Add Journal Details
+          + Add Line
         </button>
 
         <button
