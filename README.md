@@ -79,9 +79,11 @@ Install packages:
 
 npm install
 
-Start the frontend:
+Start the Project:
 
 npm run dev
 
 Visit: http://localhost:5173/
+
+
 
