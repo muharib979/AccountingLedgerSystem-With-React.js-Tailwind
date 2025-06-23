@@ -84,7 +84,7 @@ Start the Project:
 npm run dev
 
 Visit: http://localhost:5173/
-[![Home Page](screenshots/Home.png)](screenshots/Home.png)
+![Home Page](https://raw.githubusercontent.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind/main/AccountingLedgerSystem/screenshots/Home.png)
 
 
 
