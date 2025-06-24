@@ -1,6 +1,40 @@
 💼 A Modular Accounting Ledger System
 
-A Modular Accounting System built with ASP.NET Core (Clean Architecture, CQRS, EF Core, Stored Procedure) and React.js (Vite + TailwindCSS).
+ Project Summary
+
+The Accounting Ledger System is a full-stack web application designed to manage:
+
+Accounts
+
+Journal Entries
+
+Trial Balance reports
+
+It ensures a structured, clean, and maintainable architecture using the following:
+
+ Backend (ASP.NET Core 9)
+
+Clean Architecture + CQRS + MediatR
+
+EF Core with Stored Procedures
+
+AutoMapper + FluentValidation
+
+SQL Server database
+
+ Frontend (React.js)
+
+Vite + Axios + React Router
+
+Tailwind CSS for modern UI
+
+Functional components & Hooks
+
+🔗 GitHub Repositories
+
+Backend: AccountingLedgerSystem
+
+Frontend: AccountingLedgerSystem-With-React.js-Tailwind
 
 🚀 Features
 
