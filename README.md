@@ -1,18 +1,17 @@
-💼 A Modular Accounting Ledger System
-
- Project Summary
+### 💼 A Modular Accounting Ledger System 
+### Project Summary
 
 The Accounting Ledger System is a full-stack web application designed to manage:
 
-Accounts
+### Accounts
 
-Journal Entries
+### Journal Entries
 
-Trial Balance reports
+### Trial Balance reports
 
 It ensures a structured, clean, and maintainable architecture using the following:
 
- Backend (ASP.NET Core 9)
+### Backend (ASP.NET Core 8)
 
 Clean Architecture + CQRS + MediatR
 
@@ -30,13 +29,13 @@ Tailwind CSS for modern UI
 
 Functional components & Hooks
 
-🔗 GitHub Repositories
+### 🔗  GitHub Repositories
 
 Backend: AccountingLedgerSystem
 
 Frontend: AccountingLedgerSystem-With-React.js-Tailwind
 
-🚀 Features
+### 🚀 Features
 
 Create Accounts
 
@@ -49,7 +48,7 @@ View Journal Entries
 View Trial Balance
 
 
-📷 Screenshots
+### 📷 Screenshots
 
 ### Home Page
 
@@ -73,13 +72,34 @@ View Trial Balance
 
 
 
-⚒️ Tech Stack
+### Technologies Used
+
+Layer
+
+Stack
+
+Backend
+
+ASP.NET Core 9, EF Core, SQL Server
+
+Architecture
+
+Clean Architecture, CQRS, MediatR
+
+Frontend
+
+React.js, Vite, Tailwind CSS, Axios
+
+Validation
+
+FluentValidation
+
+Mapping
+
+AutoMapper
 
 
-Frontend: React.js (Vite), TailwindCSS, Axios, React Router
-
-
-🧲 Sample Test Entries
+###  Sample Test Entries
 
 1. Account
 
@@ -99,9 +119,25 @@ Frontend: React.js (Vite), TailwindCSS, Axios, React Router
   ]
 }
 
-▶️ Run Instructions
+###  Run Instructions
 
-🌐 Frontend (React.js)
+###   Backend (.NET Core)
+
+###  Clone the repo:
+
+git clone https://github.com/muharib979/AccountingLedgerSystem.git
+
+Navigate to API:
+
+cd AccountingLedgerSystem.API
+
+dotnet ef database update --project ../AccountingLedgerSystem.Infrastructure --startup-project .
+
+Run the backend:
+
+dotnet run
+
+###   Frontend (React.js)
 
 Clone the repo:
 
