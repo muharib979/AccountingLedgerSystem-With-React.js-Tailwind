@@ -31,11 +31,13 @@ Functional components & Hooks
 
 ### 🔗  GitHub Repositories
 
-Backend: AccountingLedgerSystem
+Backend (.NET Core 8):
+👉 https://github.com/muharib979/AccountingLedgerSystem
 
-Frontend: AccountingLedgerSystem-With-React.js-Tailwind
+Frontend (React.js + Tailwind):
+👉 https://github.com/muharib979/AccountingLedgerSystem-With-React.js-Tailwind
 
-### 🚀 Features
+###  Features
 
 Create Accounts
 
