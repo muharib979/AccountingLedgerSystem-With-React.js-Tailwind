@@ -139,6 +139,9 @@ Run the backend:
 
 dotnet run
 
+### Database Scripts
+[View on GitHub](https://github.com/muharib979/AccountingLedgerSystem/blob/master/AccountingLedgerSystem.Infrastructure/Persistence/Context/Database_Scripts_StoreProcedure/AccountingLedgerSystem.sql) 
+
 ###   Frontend (React.js)
 
 Clone the repo:
