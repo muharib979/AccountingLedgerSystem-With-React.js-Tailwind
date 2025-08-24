@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { saveJournalEntry } from "../../services/journalService";
-import { getAccounts } from "../../Services/accountService";
+// import { getAccounts } from "../../services/accountService";
 
 const JournalEntryForm = () => {
   const [formData, setFormData] = useState({
