@@ -46,6 +46,7 @@ const Home = () => {
     >
       View Trial Balance
     </Link>
+{/* <Link to={`/ledger/${4}`}>View Ledger</Link> */}
       </div>
     </div>
   );

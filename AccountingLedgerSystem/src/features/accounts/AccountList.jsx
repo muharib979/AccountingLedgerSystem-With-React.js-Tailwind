@@ -45,9 +45,9 @@ const AccountList = () => {
             <tbody>
               {accounts.map((acc) => (
                 <tr key={acc.id}>
-                  <td className="border px-4 py-2">{acc.id}</td>
-                  <td className="border px-4 py-2">{acc.name}</td>
-                  <td className="border px-4 py-2">{acc.type}</td>
+                  <td className="border px-4 py-2 text-center">{acc.id}</td>
+                  <td className="border px-4 py-2 text-center">{acc.name}</td>
+                  <td className="border px-4 py-2 text-center">{acc.type}</td>
                 </tr>
               ))}
             </tbody>
