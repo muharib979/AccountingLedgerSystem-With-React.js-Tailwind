@@ -1,6 +1,6 @@
 // src/features/accounts/AccountForm.jsx
 import React, { useState } from "react";
-import { saveAccount } from "../../Services/accountService";
+import { saveAccount } from "../../services/accountService";
 
 const AccountForm = () => {
   const [formData, setFormData] = useState({
